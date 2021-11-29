@@ -1,1 +1,3 @@
-# final_year-project
+# final_year-project 
+username: administrator
+password: admin+root
